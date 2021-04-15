@@ -1,0 +1,15 @@
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\bin\Release\clearBytePSFTextExample.exe.config
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\bin\Release\clearBytePSFTextExample.exe
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\bin\Release\clearBytePSFTextExample.pdb
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\clearBytePSFTextExample.csprojAssemblyReference.cache
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\MainWindow.g.cs
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\App.g.cs
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\clearBytePSFTextExample_MarkupCompile.cache
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\clearBytePSFTextExample_MarkupCompile.lref
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\MainWindow.baml
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\clearBytePSFTextExample.g.resources
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\clearBytePSFTextExample.Properties.Resources.resources
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\clearBytePSFTextExample.csproj.GenerateResource.cache
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\clearBytePSFTextExample.csproj.CoreCompileInputs.cache
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\clearBytePSFTextExample.exe
+C:\Users\cblocadmin\Source\Repos\clearBytePSFTextExample\clearBytePSFTextExample\obj\Release\clearBytePSFTextExample.pdb
